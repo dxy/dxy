@@ -40,6 +40,9 @@ SSH gateways and corporate infrastructure before moving to SRE in 2010.
 Readability reviewer for **JavaScript, Python and Go**, Google's internal
 code-quality gate.
 
+Technical reviewer, with three other Google SREs, on the Japanese editions of
+O'Reilly's *Site Reliability Engineering* and *The Site Reliability Workbook*.
+
 ## Available for
 
 Contract and fractional backend work, up to 20 hours a week. Node.js and
